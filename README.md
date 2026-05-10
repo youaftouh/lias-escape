@@ -1,4 +1,4 @@
-# lias-escape
+# Lias-escape
 
 Lia's Escape is a 2D top-down adventure game built with Phaser 3 and [@tialops/maki](https://www.npmjs.com/package/@tialops/maki).
 

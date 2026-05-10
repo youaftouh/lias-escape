@@ -2,6 +2,8 @@
 
 Lia's Escape is a 2D top-down adventure game built with Phaser 3 and [@tialops/maki](https://www.npmjs.com/package/@tialops/maki).
 
+![Screenshot of The Game](https://github.com/youaftouh/lias-escape/blob/main/the-garden.jpg)
+
 ## Simple Flow
 
 1. Run dev server

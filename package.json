@@ -1,0 +1,24 @@
+{
+  "name": "lias-escape",
+  "version": "1.0.0",
+  "description": "A Phaser game built with [@tialops/maki](https://www.npmjs.com/package/@tialops/maki).",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youaftouh/lias-escape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/youaftouh/lias-escape/issues"
+  },
+  "homepage": "https://github.com/youaftouh/lias-escape#readme",
+  "dependencies": {
+    "@tialops/maki": "^1.1.0"
+  }
+}
